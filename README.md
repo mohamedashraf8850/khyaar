@@ -3,4 +3,6 @@
 khiiar is a comparisons app for Tech Products
 
 ## Getting Started
-Flutter Priject Named (Khyaar - خيار ) 
+Flutter Project Named (Khyaar - خيار ) 
+
+# by : Mobile Team in Khyaar Company 
